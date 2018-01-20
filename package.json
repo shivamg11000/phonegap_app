@@ -1,0 +1,11 @@
+{
+  "name": "com.bmi11.app",
+  "version": "1.0.0",
+  "displayName": "BMI",
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {}
+  }
+}
